@@ -87,7 +87,7 @@ export function PromptForm({
                                 <span className="sr-only">Send message</span>
                             </Button>
                         </TooltipTrigger>
-                        <TooltipContent>Send message</TooltipContent>
+                        <TooltipContent>Nanya dong...</TooltipContent>
                     </Tooltip>
                 </div>
             </div>
