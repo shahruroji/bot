@@ -11,9 +11,9 @@ export function FooterText({ className, ...props }: React.ComponentProps<'p'>) {
             {...props}
         >
             by{' '}
-            <ExternalLink href="https://github.com/markeljan/minimal-chatbot">Markeljan</ExternalLink>{' '}
+            <ExternalLink href="">Tengku Umarsyah, Shahruroji, Rizki Ramdhani</ExternalLink>{' '}
             based on{' '}
-            <ExternalLink href="https://github.com/vercel-labs/ai-chatbot">Vercel AI Chatbot</ExternalLink>
+            <ExternalLink href="">Chatbot</ExternalLink>
         </p>
     )
 }
